@@ -11,7 +11,7 @@
 See demo : https://my-bank-exercise.netlify.app/
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/mBrochot/my-bank/master/src/images/capture.png">
+	<img src="https://raw.githubusercontent.com/mBrochot/my-bank/master/src/images/captures.png">
 </p>
 
 ## Installation and usage
